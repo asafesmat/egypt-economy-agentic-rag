@@ -200,7 +200,6 @@ The reports and indicator data belong to the World Bank and the IMF. Check their
 
 ---
 
-## 👤 Author
+## 👤 Author **Asaf** 
 
-**Asaf** — project 4 of 5 in a hands-on AI engineering series.
 [LinkedIn](www.linkedin.com/in/asaf-esmat-557004357) · [GitHub](https://github.com/asafesmat) . [Kaggle](https://www.kaggle.com/asafesmat)
