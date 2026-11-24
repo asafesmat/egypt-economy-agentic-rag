@@ -1,0 +1,10 @@
+pandas
+numpy
+pypdf
+langchain-text-splitters
+chromadb
+groq
+rank-bm25
+fonttools
+streamlit
+python-dotenv
